@@ -1,2 +1,2 @@
-# tuxman
+# tuxcraft
 Linux automatic configuration management
