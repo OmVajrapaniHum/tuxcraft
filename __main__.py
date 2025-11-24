@@ -1,7 +1,7 @@
 """Entry point module for my_package."""
 
 from . import greet
-from .example import greet2
+from .core.example import greet2
 
 
 def main():
