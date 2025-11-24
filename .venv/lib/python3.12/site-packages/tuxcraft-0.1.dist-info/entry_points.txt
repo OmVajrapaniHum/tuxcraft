@@ -1,0 +1,2 @@
+[console_scripts]
+tuxcraft = tuxcraft.__main__:main
