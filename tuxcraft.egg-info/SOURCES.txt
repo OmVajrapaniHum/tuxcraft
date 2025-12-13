@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-tuxcraft.egg-info/PKG-INFO
-tuxcraft.egg-info/SOURCES.txt
-tuxcraft.egg-info/dependency_links.txt
-tuxcraft.egg-info/entry_points.txt
-tuxcraft.egg-info/top_level.txt
