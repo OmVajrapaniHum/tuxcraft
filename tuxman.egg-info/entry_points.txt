@@ -1,0 +1,2 @@
+[console_scripts]
+tuxman = __main__:main
