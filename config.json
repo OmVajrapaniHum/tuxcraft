@@ -1,0 +1,9 @@
+{
+  "project": "tuxman",
+  "version": "1.0.0",
+  "description": "Tuxman project configuration",
+  "settings": {
+    "debug": false,
+    "logLevel": "info"
+  }
+}
