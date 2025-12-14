@@ -3,6 +3,7 @@ README.md
 setup.py
 core/__init__.py
 core/module1.py
+core/sudo.py
 tuxman.egg-info/PKG-INFO
 tuxman.egg-info/SOURCES.txt
 tuxman.egg-info/dependency_links.txt
